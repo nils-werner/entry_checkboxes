@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="entry_checkboxes" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Entry Checkboxes</name>
+	<description>Shows checkboxes for each multiselectable table in the backend</description>
+	<repo type="github">https://github.com/nils-werner/entry_checkboxes</repo>
+	<url type="issues">https://github.com/nils-werner/entry_checkboxes/issues</url>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="nils-werner" symphony="phoque">Nils Werner</name>
+			<website>http://symphonyextensions.com/developers/nils-werner/</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2012-08-23" min="2.3">
+			Initial Release
+		</release>
+	</releases>
+</extension>
